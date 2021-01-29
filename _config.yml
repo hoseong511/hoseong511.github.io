@@ -21,18 +21,18 @@ title_separator          : "-"
 subtitle                 : #
 name                     : "Hoseong"
 description              : "T자형 사람이 되자"
-url                      : "https://hoseong511.github.io" 
+url                      : "https://hoseong511.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/hoseong511/hoseong511.github.io" 
+repository               : "https://github.com/hoseong511/hoseong511.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"assets/images/icon.png" 
+logo                     : #"assets/images/icon.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "Hoseong" 
+    shortname            : "hoho-3"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Hoseong"
-  avatar           : "assets/images/2020.jpg" 
+  avatar           : "assets/images/2020.jpg"
   bio              : "**차근차근 정리**"
   location         : #"Seoul, Republic of Korea"
   email            :
@@ -276,6 +276,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
