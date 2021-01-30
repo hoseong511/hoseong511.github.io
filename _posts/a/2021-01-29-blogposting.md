@@ -18,7 +18,7 @@ last_modified_at: 2021-01-30
 ## GitHub-Pages
 Python django 페이징처리에 대해서 찾아보던 중 관련 블로그에서<sup>[1)](#footnote_1)</sup> 작성글도 보고 작성자의 깃허브도 보고나서 지난날의 게으름을 반성하며 깃허브 블로그 만들기를 마구 검색하기 시작했다.   
 
-GitHub-Pages는 사용자가 DB나 Server를 구성할 필요 없이 간단히 Markdown으로 이용할 수 있다고 한다. 아래참조!   
+GitHub-Pages는 사용자가 DB나 Server를 구성할 필요 없이 간단히 이용할 수 있다고 한다. 아래참조!   
 
 {% include video id="2MsN8gpT6jY" provider="youtube" %}
 
