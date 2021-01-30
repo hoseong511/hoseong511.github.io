@@ -85,6 +85,6 @@ print("a")
 
 ---
 <a name="footnote_1">1)</a> [Today.log](https://parkhyeonchae.github.io/2020/04/01/django-project-17/)   
-<a name="footnote_1">3)</a> [Github-Pages 시작](https://pages.github.com/)   
+<a name="footnote_1">2)</a> [Github-Pages 시작](https://pages.github.com/)   
 <a name="footnote_1">3)</a> [jekyll 빠른시작](http://jekyllrb-ko.github.io/docs/)   
 <a name="footnote_1">4)</a> [minimal mistakes 시작](https://github.com/mmistakes/minimal-mistakes)
