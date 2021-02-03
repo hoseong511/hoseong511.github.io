@@ -27,11 +27,29 @@ last_modified_at: 2021-02-01
 아이맥 27형 Retina 5K 디스플레이 제품이고, TeamGroup DDR4-3200Mhz 32GB, SK hynix Gold S31 1TB을 추가 구성하여 사용중이다.
 
 컴퓨터는 하드웨어, 운영체제, 어플리케이션(응용프로그램)으로 구성되었고 컴퓨터 저장장치에 대해서 살펴보자.  
-컴퓨터
 
 ![image](https://user-images.githubusercontent.com/62678380/106493414-70af3980-64fc-11eb-8972-c117d36ebcf1.png){: .align-center}
+
+![image](https://user-images.githubusercontent.com/62678380/106635518-488b0d80-65c4-11eb-90e9-2aeb4840e06d.png)
+
+
 출처: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/1_Introduction.html
 
+
 #### RAM
+
 #### SSD/HDD
+SSD   
+
+![image](http://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/21/7/8/5/8/5/0/UcDDk/3288785850_A3.png) | ![image](http://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/21/7/8/5/8/5/0/UcDDk/3288785850_B.png)
+
+![image](https://user-images.githubusercontent.com/62678380/106637660-56da2900-65c6-11eb-8a7f-b97c893dfc16.png)
+uasp!
+usb3.1로 구매할껄 그랬나.. 싶기도 하지만 SATA III는 최대 6Gbps(750 MB/s)이고 usb3.1은 10Gbps(1250 MB/s)이니 1Gbps의 성능을 올리자고 2배의 금액을 올리는 건 아닌것 같기도 하고, 그런데 사실 5Gbps(625 MB/s)로도 충분한데 어댑터 성능이 후진건지.. 100 MB/s나 느리게 나온다.
+아.. 전력 공급!!을 하느라 성능이 줄어드는거였어   
+내가 SSD를 쓰는 목적은 타임머신과 어플리케이션 용도로 이용한다.   
+HDD
+
+
 #### Thunderbolt
+인터페이스
