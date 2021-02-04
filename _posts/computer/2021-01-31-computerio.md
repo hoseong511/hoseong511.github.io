@@ -40,6 +40,8 @@ last_modified_at: 2021-02-01
 
 #### SSD/HDD
 SSD   
+![image](https://user-images.githubusercontent.com/62678380/106903307-31bbf680-673d-11eb-9b6c-a940252f22d6.png)
+MLC TLC
 
 ![image](http://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/21/7/8/5/8/5/0/UcDDk/3288785850_A3.png) | ![image](http://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/21/7/8/5/8/5/0/UcDDk/3288785850_B.png)
 
