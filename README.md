@@ -1,4 +1,4 @@
 
-[![HitCount](http://hits.dwyl.com/hoseong511/hoseong511githubio.svg)](http://hits.dwyl.com/hoseong511/hoseong511githubio)
+![HitCount](http://hits.dwyl.com/hoseong511/hoseong511githubio.svg)
 # hoseong511.github.io
 깃허브 메모
