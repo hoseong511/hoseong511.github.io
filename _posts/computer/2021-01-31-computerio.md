@@ -34,17 +34,18 @@ last_modified_at: 2021-02-01
 
 
 출처: https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/1_Introduction.html
-
+어디서부터 작성을... 해야하지?ㅠ
 
 #### RAM
 
 #### SSD/HDD
 SSD   
+내장 SSD
 ![image](https://user-images.githubusercontent.com/62678380/106903307-31bbf680-673d-11eb-9b6c-a940252f22d6.png)
 MLC TLC
 
 ![image](http://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/21/7/8/5/8/5/0/UcDDk/3288785850_A3.png) | ![image](http://cdn.011st.com/11dims/resize/600x600/quality/75/11src/pd/21/7/8/5/8/5/0/UcDDk/3288785850_B.png)
-
+외장 SSD - SK hynix S31 SATA
 ![image](https://user-images.githubusercontent.com/62678380/106637660-56da2900-65c6-11eb-8a7f-b97c893dfc16.png)
 uasp!
 usb3.1로 구매할껄 그랬나.. 싶기도 하지만 SATA III는 최대 6Gbps(750 MB/s)이고 usb3.1은 10Gbps(1250 MB/s)이니 1Gbps의 성능을 올리자고 2배의 금액을 올리는 건 아닌것 같기도 하고, 그런데 사실 5Gbps(625 MB/s)로도 충분한데 어댑터 성능이 후진건지.. 100 MB/s나 느리게 나온다.
