@@ -1,10 +1,21 @@
 ---
-layout: archive
+layout: category
 ---
-
-{{ content }}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include navigation.html %}
+    <div class="application">
+      {% include global.html %}
+      {% include search.html %}
+      {% include header.html %}
+      <section class="wrapper category-main">
+        {{content}}
+      </section>
+    </div>
+  </body>
+  {% include footer.html %}
+</html>
