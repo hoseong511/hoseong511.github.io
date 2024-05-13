@@ -43,7 +43,7 @@ xxd a.out
 			.
 			.
 ```
-xxd에서 리틀엔디안 출력하려면 ```xxd -e a.out```
+xxd에서 리틀엔디안으로 출력하려면 ```xxd -e a.out```
 
 objdump -hD a.out
 ```objdump
@@ -62,7 +62,11 @@ objdump -hD a.out
 			.
 ```
 
+Hello World!
+
 ### **참조**
 
 -   CSAPP:part2-7 linker
 -   clang v15.0.0 [https://releases.llvm.org/15.0.0/tools/clang/docs/CommandGuide/clang.html](https://releases.llvm.org/15.0.0/tools/clang/docs/CommandGuide/clang.html)
+-   llvm-objdump [https://llvm.org/docs/CommandGuide/llvm-objdump.html](https://llvm.org/docs/CommandGuide/llvm-objdump.html)
+-   xxd [https://man.freebsd.org/cgi/man.cgi?query=xxd&sektion=1](https://man.freebsd.org/cgi/man.cgi?query=xxd&sektion=1)
